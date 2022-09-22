@@ -8,12 +8,12 @@
 
 $breakpoint: 60rem;
 
-$background-color: #fff;
+$background-color: #f3e5d7;
 
 {% case site.color %}
 {% when 'red' %}
 $main-color:       #495057;
-$secondary-color:  #fa5252;
+$secondary-color:  hsl(174, 89%, 30%);
 {% when 'pink' %}
 $main-color:       #495057;
 $secondary-color:  #e64980;
@@ -55,7 +55,7 @@ $main-color:       #4C566A;
 $secondary-color:  #81A1C1;
 {% else %}
 $main-color:       #495057;
-$secondary-color:  #adb5bd;
+$secondary-color:  hsl(0, 4%, 22%);
 {% endcase %}
 
 @import "main";
