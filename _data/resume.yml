@@ -1,55 +1,76 @@
-title: Résumé
-name: YOUR NAME
-jobtitle: Your Job Title
+title: ATM Touhidul Islam's Résumé
+name: ATM Touhidul Islam
+jobtitle: Digital Marketer | SEO | HTML | CSS | JavaScript
 contact:
   - icon: fa-envelope
-    text: youremail@example.com
+    text: touhidislam863@gmail.com
   - icon: fa-phone-square
-    text: your-phone-num
+    text: '+8801745670789'
   - icon: fa-globe
-    text: your-website.com
-    link: https://crispgm.github.io/resume/resume.html
+    text: LinkedIn
+    link: https://www.linkedin.com/in/atmtouhidulislam/
   - icon: fa-github
-    text: your-github
-    link: https://github.com/crispgm/resume
+    text: GitHub
+    link: https://github.com/atmtouhid
 education:
-  - university: Your First University
-    duration: Jul 2011 - Dec 2012
-    location: Consectetur adipiscing elit
-    major: Lorem ipsum dolor sit amet
-  - university: Your Second University
-    duration: Aug 2007 - Jun 2011
-    location: Ut enim ad minim veniam
-    major: Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+  - university: Gaibandha Govt Boys High School
+    duration: 1998
+    location: Bangladesh
+    major: SSC
+  - university: Mirjapur College
+    duration: 2000
+    location: Bangladesh
+    major: HSC
+  - university: Rangpur Polytechnic Institute
+    duration: 2003
+    location: Bangladesh
+    major: Bachelor of Science
 skills:
-  - title: Skill Group 1
-    items: Lorem, Ipsum, Dolor, Sit, Amet
-  - title: Skill Group 2
-    items: Consectetur, Adipiscing, Elit
-  - title: Skill Group 3
-    items: Sed do, Eiusmod, Tempor, Incididunt
+  - title: Digital Marketing
+    items: SEO, Social Media Marketing, YouTube Promotion, Lead Generation, Sales
+  - title: Graphics Design
+    items: Photoshop, Illustrator
+  - title: Web Development
+    items: HTML, CSS, JavaScript
+  - title: CMS
+    items: Wordpress Customisation
 experience:
-  - title: Job Title 1
-    duration: Apr 2016 - Now
-    company: Your 1st, Inc.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: Job Title 2
-    duration: Apr 2013 - Mar 2016
-    company: Your 2nd, Inc.
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  - title: Job Title 3
-    duration: Dec 2011 - Mar 2012
-    company: Your 3rd Co, Ltd.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title: Graphics Designer
+    duration: Jun 2007 - Jan 2011
+    company: MOHONA
+    description: Designed visitng cards, posters, marketing campaings, promotional flyers
+  - title: Proprietor
+    duration: Jan 2012 - Mar 2016
+    company: Future Knittings
+    description: Colloaborated with foreign buyers to provide high end sweaters manufactured in my own garments factory
+  - title: Professional Freelancer
+    duration: Aug 2017 - Present
+    company: Fiverr
+    description: Primarily focused on doing SEO, both local and global
 projects:
-  - name: Project Name 1
-    description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Contributor.
-  - name: Project Name 2
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Creator and maintainer.
+  - name: Fiverr Gigs
+    link: https://www.fiverr.com/touhid_islam
+    description: Provided Digital Marketing services and SEO for 60+ clients. Details for different projects can be found in my Fiverr account
+    contribution: Digital Marketer
+  - name: FocoDecking
+    link: https://www.focodecking.com/
+    description: Delivered a customized wordpress theme to sell Deckings
+    contribution: Developer
+  - name: 1plus Agency
+    link: https://www.1plus-agency.com/
+    description: Customized a wordpress theme to sell Digital Marketing and SEO services
+    contribution: Developer
+certifications:
+  - name: Digital Marketing Certification
+    issued_on: Sep 2020
+    description: Master Digital Marketing
+    link: https://www.udemy.com/certificate/UC-3f01c336-8fa5-4ad5-96bd-2d04aae201d7/
+  - name: SEO Crash Course
+    issued_on: Sep 2020
+    description: For Online Entrepreneurs and Marketers
+    link: https://www.udemy.com/certificate/UC-32e7da26-fdc3-49d7-ba1d-7f892cb597a5/
 languages:
   - name: English
-    proficiency: Work proficiency
-  - name: Mandarin Chinese
+    proficiency: Working Proficiency
+  - name: Bengali
     proficiency: Native
